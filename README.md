@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Google Cyber Security Analyst**
 
-- 🌱 I’m currently learning **Django , Linux , Cyber Security**
+- 🌱 I’m currently learning **Python , Linux , Cyber Security**
 
 - 💬 Ask me about **Python , Linux ,Cyber Security**
 
