@@ -70,12 +70,12 @@ Technology Entrepreneur | Cybersecurity Enthusiast | Python Developer | AI & Aut
 ### Tools & Software
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=vscode,pycharm,photoshop" />
+<img src="https://skillicons.dev/icons?i=vscode,pycharm" />
 </p>
 
 ---
 
-## 🔥 Featured Projects
+<!-- ## 🔥 Featured Projects
 
 ### 🔐 Cybersecurity
 
@@ -98,16 +98,17 @@ Technology Entrepreneur | Cybersecurity Enthusiast | Python Developer | AI & Aut
 - Tech UP Digital Website (Upcoming)
 
 ---
+-->
 
 ## 📈 GitHub Statistics
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DwaipayanSaha09&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DwaipayanSaha09&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DwaipayanSaha09&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DwaipayanSaha09&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DwaipayanSaha09&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=DwaipayanSaha09&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -115,12 +116,12 @@ Technology Entrepreneur | Cybersecurity Enthusiast | Python Developer | AI & Aut
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=DwaipayanSaha09&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=DwaipayanSaha09&theme=algolia&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
 ---
 
-## 🎯 2026 Goals
+<!-- ## 🎯 2026 Goals
 
 ✅ Build 10+ Cybersecurity Projects
 
@@ -138,6 +139,7 @@ Technology Entrepreneur | Cybersecurity Enthusiast | Python Developer | AI & Aut
 
 ---
 
+
 ## 📚 Currently Learning
 
 ```python
@@ -152,6 +154,7 @@ skills = {
 ```
 
 ---
+-->
 
 ## 🌐 Connect With Me
 
