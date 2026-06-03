@@ -16,8 +16,6 @@ Technology Entrepreneur | Cybersecurity Enthusiast | Python Developer | AI & Aut
 
 ## 🚀 About Me
 
-🎓 BCA Student
-
 🏢 Founder & CEO of **Tech UP Digital**
 
 🔐 Passionate about **Cybersecurity & Ethical Hacking**
@@ -25,8 +23,6 @@ Technology Entrepreneur | Cybersecurity Enthusiast | Python Developer | AI & Aut
 🐍 Python Developer
 
 🤖 Exploring **Artificial Intelligence & Automation**
-
-☁️ Learning **Cloud Computing**
 
 🌐 Web Development Enthusiast
 
@@ -37,12 +33,11 @@ Technology Entrepreneur | Cybersecurity Enthusiast | Python Developer | AI & Aut
 ## 🎯 Current Focus
 
 - Cybersecurity Projects
+- Linux & Networking
 - Python Automation Tools
 - AI Applications
 - Open Source Contributions
 - Web Development
-- Cloud Computing
-- Linux & Networking
 
 ---
 
@@ -165,7 +160,7 @@ skills = {
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/dwaipayan-saha09">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
@@ -181,7 +176,7 @@ skills = {
 <img src="https://img.shields.io/badge/NetNerd-000000?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://www.youtube.com/@CyBerGaming">
+<a href="https://www.youtube.com/@net-nerd">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 </p>
